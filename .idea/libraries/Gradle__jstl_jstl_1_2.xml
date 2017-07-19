@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: jstl:jstl:1.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/jstl/jstl/1.2/74aca283cd4f4b4f3e425f5820cda58f44409547/jstl-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/jstl/jstl/1.2/9c8b347a8c787654e0debd8bde44c51c6dcbfbfe/jstl-1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
